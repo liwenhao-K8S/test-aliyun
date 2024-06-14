@@ -1,2 +1,1 @@
-nginx
-ubuntu
+rustdesk/rustdesk-server

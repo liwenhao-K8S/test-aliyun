@@ -1,2 +1,3 @@
 rustdesk/rustdesk-server
 ubuntu
+1panel/maxkb:v1.2.0

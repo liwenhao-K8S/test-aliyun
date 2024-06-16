@@ -3,3 +3,4 @@ rustdesk/rustdesk-server
 luodaoyi/kms-server
 ghcr.io/wg-easy/wg-easy
 linuxserver/jellyfin
+nginx

@@ -2,4 +2,4 @@ rustdesk/rustdesk-server
 1panel/maxkb:v1.2.0
 luodaoyi/kms-server
 ghcr.io/wg-easy/wg-easy
-
+linuxserver/jellyfin

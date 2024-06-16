@@ -1,3 +1,4 @@
 rustdesk/rustdesk-server
 ubuntu
 1panel/maxkb:v1.2.0
+luodaoyi/kms-server

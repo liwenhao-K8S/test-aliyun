@@ -4,3 +4,5 @@ luodaoyi/kms-server
 ghcr.io/wg-easy/wg-easy
 linuxserver/jellyfin
 nginx
+mysql
+mysql:5.6.47

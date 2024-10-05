@@ -4,3 +4,4 @@ luodaoyi/kms-server
 ghcr.io/wg-easy/wg-easy
 linuxserver/jellyfin
 ghcr.io/hotio/jellyfin
+haishanh/yacd

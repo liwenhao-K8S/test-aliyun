@@ -7,3 +7,4 @@ ghcr.io/hotio/jellyfin
 haishanh/yacd
 ollama/ollama
 ghcr.io/koriiku/luxirty-search
+mzz2017/v2raya

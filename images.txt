@@ -8,3 +8,4 @@ haishanh/yacd
 ollama/ollama
 ghcr.io/koriiku/luxirty-search
 mzz2017/v2raya
+ghcr.io/open-webui/open-webui:main
